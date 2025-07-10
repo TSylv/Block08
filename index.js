@@ -1,7 +1,7 @@
 
-let code1 = 20 + 5 * 3;        // 35
-let code2 = (100 - 20) / 2;    // 40
-let code3 = 100 % 61;          // 39
+let code1 = 7 + 3;              // 10
+let code2 = (100 - 20) / 2;     // 40
+let code3 = 100 % 61;           // 39
 
 
 //Message
